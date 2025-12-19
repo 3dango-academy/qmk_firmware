@@ -2,7 +2,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [3dango_academy](https://github.com/3dango_academy)
+* Keyboard Maintainer: [3dango-academy](https://github.com/3dango-academy)
 
 Make example for this keyboard (after setting up your build environment):
 
