@@ -1,6 +1,6 @@
 {
     "manufacturer": "3dango_academy",
-    "keyboard_name": "3dango/packeys",
+    "keyboard_name": "3dango_academy/packeys",
     "maintainer": "3dango_academy",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
